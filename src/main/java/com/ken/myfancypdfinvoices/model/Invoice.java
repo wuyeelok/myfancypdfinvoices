@@ -1,4 +1,4 @@
-package com.ken;
+package com.ken.myfancypdfinvoices.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

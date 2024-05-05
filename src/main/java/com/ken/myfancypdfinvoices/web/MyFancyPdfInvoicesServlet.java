@@ -1,6 +1,8 @@
-package com.ken;
+package com.ken.myfancypdfinvoices.web;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.ken.myfancypdfinvoices.model.Invoice;
+import com.ken.myfancypdfinvoices.service.InvoiceService;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;

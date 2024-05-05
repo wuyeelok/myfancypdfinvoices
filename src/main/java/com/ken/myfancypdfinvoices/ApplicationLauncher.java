@@ -1,5 +1,6 @@
-package com.ken;
+package com.ken.myfancypdfinvoices;
 
+import com.ken.myfancypdfinvoices.web.MyFancyPdfInvoicesServlet;
 import org.apache.catalina.Context;
 import org.apache.catalina.LifecycleException;
 import org.apache.catalina.Wrapper;

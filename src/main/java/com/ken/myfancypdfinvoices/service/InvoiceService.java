@@ -1,4 +1,6 @@
-package com.ken;
+package com.ken.myfancypdfinvoices.service;
+
+import com.ken.myfancypdfinvoices.model.Invoice;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
